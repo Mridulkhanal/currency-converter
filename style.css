@@ -50,6 +50,7 @@ form :where(input, select, button) {
 form p {
   font-size: 20px;
   margin-bottom: 5px;
+  text-align: center;
 }
 
 form input {
