@@ -15,6 +15,7 @@ A simple and user-friendly currency converter application that allows users to c
 ---
 
 ## 🚀 Live Demo
+<img width="1483" height="820" alt="currency_converter" src="https://github.com/user-attachments/assets/43933f8f-4251-4841-a203-b6599c620f72" />
 
 
 ---
